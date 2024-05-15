@@ -1,0 +1,27 @@
+body{
+    background-color: #305050;
+    text-align: center; 
+    color: white;
+    font-family: roboto;
+}
+
+h2{
+    color:orange
+}
+
+header{
+     border-bottom: 2px solid gray;
+}
+
+footer{
+    border-top: 2px solid gray;
+}
+
+#nome{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.texto-ingles{
+    font-style: italic;
+}
